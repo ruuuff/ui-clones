@@ -1,6 +1,8 @@
 ## 📝 Sobre este repositório
 Este repositório contém o link de todos os clones que já desenvolvi.
 
+Obs: O link para as páginas utilizadas como referência estão dentro do repositório de cada clone.
+
 ## ✈️ Tecnologias
 Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
 - HTML
