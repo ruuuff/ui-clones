@@ -1,5 +1,5 @@
 ## 📝 Sobre este repositório
-Este repositório contém o link de todos os clones que já desenvolvi.
+Este repositório contém o link para os repositórios de cada os clone que já desenvolvi.
 
  > ***Obs:** O link para as páginas utilizadas como referência estão dentro do repositório de cada clone.*
 
@@ -14,7 +14,7 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
   <thead>
     <tr>
       <th>#</th>
-      <th>Homepage</th>
+      <th>Repositories</th>
       <th>Live Demo</th>
     </tr>
   </thead>
@@ -33,6 +33,11 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td>03</td>
       <td><a href="https://github.com/RuuuFF/phantom-homepage-clone">Phantom</a></td>
       <td align="center"><a href="https://phantom-homepage-clone-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
+   <tr>
+      <td>04</td>
+      <td><a href="https://github.com/RuuuFF/hyperspace-homepage-clone">Hyperspace</a></td>
+      <td align="center"><a href="https://hyperspace-homepage-clone-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
