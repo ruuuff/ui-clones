@@ -39,5 +39,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/hyperspace-ui">Hyperspace</a></td>
       <td align="center"><a href="https://hyperspace-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+   <tr>
+      <td>05</td>
+      <td><a href="https://github.com/RuuuFF/datasecurity-ui">Data Security</a></td>
+      <td align="center"><a href="https://datasecurity-ui-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
