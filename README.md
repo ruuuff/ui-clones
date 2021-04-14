@@ -21,23 +21,23 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="https://github.com/RuuuFF/photon-homepage-clone">Photon</a></td>
-      <td align="center"><a href="https://photon-homepage-clone-ruuuff.netlify.app/">Live Demo</a></td>
+      <td><a href="https://github.com/RuuuFF/photon-ui">Photon</a></td>
+      <td align="center"><a href="https://photon-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="https://github.com/RuuuFF/solidstate-homepage-clone">Solid State</a></td>
-      <td align="center"><a href="https://solidstate-homepage-clone-ruuuff.netlify.app/">Live Demo</a></td>
+      <td><a href="https://github.com/RuuuFF/solidstate-ui">Solid State</a></td>
+      <td align="center"><a href="https://solidstate-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="https://github.com/RuuuFF/phantom-homepage-clone">Phantom</a></td>
-      <td align="center"><a href="https://phantom-homepage-clone-ruuuff.netlify.app/">Live Demo</a></td>
+      <td><a href="https://github.com/RuuuFF/phantom-ui">Phantom</a></td>
+      <td align="center"><a href="https://phantom-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
    <tr>
       <td>04</td>
-      <td><a href="https://github.com/RuuuFF/hyperspace-homepage-clone">Hyperspace</a></td>
-      <td align="center"><a href="https://hyperspace-homepage-clone-ruuuff.netlify.app/">Live Demo</a></td>
+      <td><a href="https://github.com/RuuuFF/hyperspace-ui">Hyperspace</a></td>
+      <td align="center"><a href="https://hyperspace-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
