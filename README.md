@@ -44,5 +44,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/datasecurity-ui">Data Security</a></td>
       <td align="center"><a href="https://datasecurity-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+   <tr>
+      <td>06</td>
+      <td><a href="https://github.com/RuuuFF/forty-ui">Forty</a></td>
+      <td align="center"><a href="https://forty-ui-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
