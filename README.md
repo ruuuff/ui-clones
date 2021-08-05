@@ -49,5 +49,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/forty-ui">Forty</a></td>
       <td align="center"><a href="https://forty-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+   <tr>
+      <td>07</td>
+      <td><a href="https://github.com/RuuuFF/flash-ui">The Flash UI</a></td>
+      <td align="center"><a href="https://flash-ui-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
