@@ -54,5 +54,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/flash-ui">The Flash UI</a></td>
       <td align="center"><a href="https://flash-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+   <tr>
+      <td>08</td>
+      <td><a href="https://github.com/RuuuFF/service-website-ui/tree/master">Service Website</a></td>
+      <td align="center"><a href="https://service-website-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
