@@ -1,5 +1,5 @@
 ## 📝 Sobre este repositório
-Este repositório contém o link para os repositórios de cada os clone que já desenvolvi.
+Este repositório contém o link para o repositório de cada reprodução de UI desenvolvido por mim.
 
  > ***Obs:** O link para os protótipos utilizados como referência estão dentro do repositório de cada clone.*
 
