@@ -1,10 +1,10 @@
-## 📝 Sobre este repositório
-Este é um repositório onde compartilho reproduções de interfaces que desenvolvi para praticar minhas habilidades com HTML, CSS e JavaScript. Os projetos têm como objetivo aprimorar minhas habilidades no Front-end, desde o design até a implementação de funcionalidades interativas.
+# 📝 Sobre este repositório
+Este é um repositório onde compartilho os clones de interfaces que desenvolvi para praticar minhas habilidades com HTML, CSS e JavaScript. Os projetos têm como objetivo aprimorar minhas habilidades no Front-end, desde codificar o design até a implementação de funcionalidades interativas.
 
- > ***Obs:** O link para os protótipos utilizados como referência estão dentro do repositório de cada clone.*
+ > ***Obs:** O link para as interfaces ou protótipos do Figma utilizados como referência estão dentro do repositório de cada clone.*
 
 ## ✈️ Tecnologias
-As reproduções foram desenvolvidas utilizando as seguintes tecnologias:
+Os projetos foram desenvolvidas utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
@@ -66,7 +66,7 @@ As reproduções foram desenvolvidas utilizando as seguintes tecnologias:
     </tr>
    <tr>
       <td>10</td>
-      <td><a href="https://github.com/RuuuFF/discord-snowsgiving-ui">Discord Snowsgiving</a></td>
+      <td><a href="https://github.com/RuuuFF/discord-snowsgiving-ui">Discord Snowsgiving 2021</a></td>
       <td align="center"><a href="https://discord-snowsgiving-ruuuff.netlify.app/">Demo</a></td>
     </tr>
   </tbody>
